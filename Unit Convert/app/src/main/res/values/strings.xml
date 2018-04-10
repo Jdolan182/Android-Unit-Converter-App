@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="tab_page1">Select Units</string>
+    <string name="tab_page2">Convert</string>
+    <string name="selectUnits">Select Units</string>
+    <string name="convertFrom">Convert From</string>
+    <string name="convertTo">Convert To</string>
+    <string name="convertFrom2" />
+    <string name="convertTo2" />
+
+
+</resources>
